@@ -4,8 +4,6 @@ resource "lab" "git_fundamentals" {
   tags = ["git", "version-control", "beginner", "fundamentals"]
 
   settings {
-    theme = "modern-dark"
-
     timelimit {
       duration = 90
       extend = 15
