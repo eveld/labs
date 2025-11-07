@@ -1,0 +1,1 @@
+- create a tool that takes in a lab outline and generates modules for each chapter with pages, outputs and markdown
